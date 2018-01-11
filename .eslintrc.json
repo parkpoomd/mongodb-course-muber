@@ -5,7 +5,7 @@
     "node": true,
     "mocha": true
   },
-  "extends": "eslint:standard",
+  "extends": "standard",
   "parserOptions": {
     "ecmaVersion": 6
   },
